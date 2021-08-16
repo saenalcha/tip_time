@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="cost_of_service">서비스 비용</string>
+    <string name="service_question">서비스는 어땠나요?</string>
+    <string name="amazing_service">훌륭함 (20%)</string>
+    <string name="good_service">좋음 (18%)</string>
+    <string name="ok_service">보통 (15%)</string>
+    <string name="round_up_tip">팁 반올림?</string>
+    <string name="calculate">계산하기</string>
+    <string name="amount_tip">팁 금액: %s</string>
+</resources>
